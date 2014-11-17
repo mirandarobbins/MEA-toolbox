@@ -1,8 +1,7 @@
 MEA-toolbox
 ===========
 
-2011-2014 Aleksander Domanski PhD (adomansk@exseed.ed.ac.uk)
-Centre for Integrative Physiology, Biomedical Sciences University of Edinburgh
+2011-2014 Aleksander Domanski PhD (adomansk@exseed.ed.ac.uk) (Centre for Integrative Physiology, Biomedical Sciences University of Edinburgh)
 
 Software for multichannel neuroscience data analysis.
 - C++/MATLAB tools for analysis, visualization and causal modeling of in vitro multi-electrode array electrophysiology data 
@@ -31,5 +30,5 @@ Some highlights:
 - Network activity propagation analysis (PCA, Granger Causaliy, Möbius transform, Information theory tools)
 - Multichannel time (peri-event histograms, cross-correlation) and frequency domain (Wavelet spectrograms, Multi-taper Fourier    spectrograms, coherence) analysis
 
-- Incorporates several published toolboxes - dependency detaily and acknowledgements to follow.
+- Incorporates several published toolboxes - dependency details and acknowledgements to follow.
 - Documentation to follow, data structures dependencies are detailed in ./instructions/data structures.docx
