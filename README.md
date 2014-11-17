@@ -4,11 +4,11 @@ MEA-toolbox
 2011-2014 Aleksander Domanski PhD (adomansk@exseed.ed.ac.uk) (Centre for Integrative Physiology, Biomedical Sciences University of Edinburgh)
 
 Software for multichannel neuroscience data analysis.
-- C++/MATLAB tools for analysis, visualization and causal modeling of in vitro multi-electrode array electrophysiology data 
+C++/MATLAB tools for analysis, visualization and causal modeling of in vitro multi-electrode array electrophysiology data 
 
 - ENGINEERING GOAL: These software tools were developed to streamline the study cortical network activity primarily on planar     8x8 electrode arrays. 
 
-- SCIENTICIC GOAL: Comparing group data between different models of Autism/Intellectual Disability, developmental time-series     analysis.
+- SCIENTIFIC GOAL: Comparing group data between different models of Autism/Intellectual Disability, developmental time-series     analysis.
 
 
 - Accepts sinals from Panasonic/MED64 MEA system (.MED), and Multichannel systems (.MCD - via Neuroshare API) recordings.
