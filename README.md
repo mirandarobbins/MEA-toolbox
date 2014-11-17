@@ -12,7 +12,7 @@ Software for multichannel neuroscience data analysis.
 
 
 - Accepts sinals from Panasonic/MED64 MEA system (.MED), and Multichannel systems (.MCD - via Neuroshare API) recordings.
-- Can incorporate simultaneously acquired single-cell signals (<=dual channel patch-clamp recordings, population calcium imaging   (2-Photon or epifluorescence) or single unit data) via Ephus .xsg or Molecular Devices (Axon) .abf files. Robust against        sampling jitter and sample-rate mismatches
+- Can incorporate simultaneously acquired single-cell signals (<=dual channel patch-clamp recordings, population calcium imaging   (2-Photon or epifluorescence) or single unit data) via Ephus .xsg or Molecular Devices (Axon) .abf files. Robust against        sampling jitter and sample-rate mismatches (uses time-shifting and DC noise-matching to correct for software offsets).
 
 - Can be configured to analyse network responses to episodic stimulation (e.g. patterned thalamocortial stimulation), or          autonomously detect spontaneous network activity.
 
